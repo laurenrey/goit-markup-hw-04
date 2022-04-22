@@ -496,13 +496,11 @@ img {
 
 .container.footer {
   display: flex;
+  align-items: baseline;
 }
 
 .container-address {
   margin-right: 70px;
-}
-.social-media-footer {
-  padding-top: 12px;
 }
 
 .title-join {
